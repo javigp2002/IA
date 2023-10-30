@@ -1,0 +1,9 @@
+[submodule "practica1"]
+	path = practica1
+	url = https://github.com/javigp2002/practica1IA
+[submodule "practica2"]
+	path = practica2
+	url = https://github.com/javigp2002/practica2IA
+[submodule "practica3"]
+	path = practica3
+	url = https://github.com/javigp2002/practica3IA
